@@ -1,4 +1,4 @@
-# Soteria Web Automation
+#Web Automation Framework
 
 This is the Soteria Web Automation Project. It is created with Selenide and Junit5 and uses Gauge as the test
 specification framework.
